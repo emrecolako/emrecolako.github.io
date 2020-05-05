@@ -1,4 +1,4 @@
-baseurl = "emrecolako.github.io"
+baseurl = "lateralus.org"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
