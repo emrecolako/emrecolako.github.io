@@ -8,7 +8,7 @@ paginate = 5
   contentTypeName = "posts"
 
   # "light" or "dark"
-  defaultTheme = "dark"
+  defaultTheme = "light"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
@@ -19,9 +19,9 @@ paginate = 5
 [languages]
   [languages.en]
     title = "Lateralus"
-    subtitle = "A simple theme for Hugo"
+    subtitle = "Emre Colakoglu"
     keywords = ""
-    copyright = ""
+    copyright = "Emre Colakoglu"
     menuMore = "Show more"
     writtenBy = "Written by Emre"
     readMore = "Read more"
@@ -36,7 +36,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "Lateralus"
-      logoHomeLink = "/"
+      logoHomeLink = "/about"
     # or
     #
     # path = "/img/your-example-logo.svg"
