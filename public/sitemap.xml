@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>lateralus.org/</loc>
+    <lastmod>2020-05-03T14:38:25+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>lateralus.org/posts/</loc>
+    <lastmod>2020-05-03T14:38:25+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>lateralus.org/tags/hello/</loc>
+    <lastmod>2020-05-03T14:38:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>lateralus.org/posts/hello-world/</loc>
+    <lastmod>2020-05-03T14:38:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>lateralus.org/tags/</loc>
+    <lastmod>2020-05-03T14:38:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>lateralus.org/tags/world/</loc>
+    <lastmod>2020-05-03T14:38:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>lateralus.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>lateralus.org/about/</loc>
+  </url>
+  
+</urlset>
