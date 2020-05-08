@@ -7,7 +7,7 @@ tags = ["blog", "clean", "customizable", "dark", "highlighting", "light", "minim
 features = ["blog", "shortcode", "syntax Highlighting"]
 min_version = 0.57
 
-[author]
-  name = "panr"
-  homepage = "https://radoslawkoziel.pl"
-  twitter = "https://twitter.com/panr"
+# [author]
+#   name = "panr"
+#   homepage = "https://radoslawkoziel.pl"
+#   twitter = "https://twitter.com/panr"
